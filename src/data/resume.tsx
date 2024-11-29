@@ -10,7 +10,7 @@ export const DATA = {
   description:
     "I turn ideas in to products and services, creating elegant and robust software solutions that make a difference.",
   summary:
-    `Hello! Namaste! Bonjour! I’m a passionate software developer from the vibrant heart of India, currently based in Toronto, ON 🇨🇦.
+    `Hello! Bonjour! I’m a passionate software developer based in Toronto, ON 🇨🇦.
     At work, I blend code and creativity, transforming ideas into captivating digital products.
     I have 2 years experience with enterprise Java, React and Node Applications and actively looking for junior developer roles.`,
   avatarUrl: "/Me.jpeg",

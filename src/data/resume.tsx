@@ -106,6 +106,33 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Manga Bloom",
+      href: "https://github.com/JaykumarPatel1998/MangaBloom",
+      dates: "October 2024 - Present",
+      active: true,
+      description:
+        "MangaBloom is an innovative manga reading platform designed to enhance the digital reading experience for manga enthusiasts. Built with modern web technologies, it offers an ad-free environment where readers can enjoy their favorite manga without interruptions. The application streamlines manga consumption by providing fast access to a vast library of content while maintaining high performance and reliability. Through thoughtful architecture and efficient data management, MangaBloom delivers a clean, user-focused interface that prioritizes what matters most: the seamless enjoyment of manga content.",
+      technologies: [
+        "Node.js",
+        "PostgreSQL",
+        "API Development",
+        "Rate Limiting"
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://manga-bloom.vercel.app/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/JaykumarPatel1998/MangaBloom",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/manga.jpg",
+    },
+    {
       title: "React Rooks",
       href: "https://chess-against-ai.vercel.app/",
       dates: "Jun - Jul 2024",
@@ -136,31 +163,28 @@ export const DATA = {
       image: "/chess.png",
     },
     {
-      title: "Manga Bloom",
-      href: "https://github.com/JaykumarPatel1998/MangaBloom",
+      title: "Ecommerce Java Asynchronous Backend",
+      href: "https://github.com/JaykumarPatel1998/Ecommerce-Microservice",
       dates: "October 2024 - Present",
       active: true,
       description:
-        "MangaBloom is an innovative manga reading platform designed to enhance the digital reading experience for manga enthusiasts. Built with modern web technologies, it offers an ad-free environment where readers can enjoy their favorite manga without interruptions. The application streamlines manga consumption by providing fast access to a vast library of content while maintaining high performance and reliability. Through thoughtful architecture and efficient data management, MangaBloom delivers a clean, user-focused interface that prioritizes what matters most: the seamless enjoyment of manga content.",
+        "Developed a robust microservices-based e-commerce backend using Spring Boot, implementing a distributed system with Netflix Eureka for service discovery, Open Feign for REST communication, RabbitMQ for asynchronous order processing, and PostgreSQL as the primary database. The architecture ensures scalable, loosely coupled services with efficient communication and reliable data management.",
       technologies: [
-        "Node.js",
+        "Spring Boot",
+        "Netflix Eureka",
+        "Open Feign",
+        "RabbitMQ",
         "PostgreSQL",
-        "API Development",
-        "Rate Limiting"
+        "Microservices"
       ],
       links: [
-        // {
-        //   type: "Website",
-        //   href: "#",
-        //   icon: <Icons.globe className="size-3" />,
-        // },
         {
           type: "Source",
-          href: "https://github.com/JaykumarPatel1998/MangaBloom",
+          href: "https://github.com/JaykumarPatel1998/Ecommerce-Microservice",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "/manga.jpg",
+      image: "https://images.pexels.com/photos/4482900/pexels-photo-4482900.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
     }
   ],
   // hackathons: [

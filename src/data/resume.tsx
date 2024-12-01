@@ -16,7 +16,7 @@ export const DATA = {
   avatarUrl: "/Me.jpeg",
   skills: [
     "React",
-    "Node",
+    "Go Lang",
     "Javascript",
     "Typescript",
     "Java",
@@ -24,9 +24,6 @@ export const DATA = {
     "Docker",
     "Microservices",
     "PostgreSQL",
-    "MongoDB",
-    "AWS [ec2, s3, serverless]",
-    "ORM [Prisma, Drizzle, Hibernate]",
     "Git"
   ],
   navbar: [
@@ -113,10 +110,10 @@ export const DATA = {
       description:
         "MangaBloom is an innovative manga reading platform designed to enhance the digital reading experience for manga enthusiasts. Built with modern web technologies, it offers an ad-free environment where readers can enjoy their favorite manga without interruptions. The application streamlines manga consumption by providing fast access to a vast library of content while maintaining high performance and reliability. Through thoughtful architecture and efficient data management, MangaBloom delivers a clean, user-focused interface that prioritizes what matters most: the seamless enjoyment of manga content.",
       technologies: [
-        "Node.js",
+        "Go Lang",
         "PostgreSQL",
         "API Development",
-        "Rate Limiting"
+        "Batch Processing",
       ],
       links: [
         {

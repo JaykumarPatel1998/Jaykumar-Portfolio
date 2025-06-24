@@ -12,7 +12,7 @@ export const DATA = {
   summary:
     `Hello! Bonjour! I’m a passionate software developer based in Toronto, ON 🇨🇦.
     At work, I blend code and creativity, transforming ideas into captivating digital products.
-    I have 2 years experience with enterprise Java, React and Node Applications and actively looking for junior developer roles.`,
+    I have 2 years experience with enterprise Java, React and Node Applications.`,
   avatarUrl: "/Me.jpeg",
   skills: [
     "React",
@@ -70,6 +70,18 @@ export const DATA = {
     //   description:
     //     "Developed a comprehensive job portal platform, incorporating real-time features to enhance user experience and optimize job matching. Implemented efficient scheduling and notification systems to improve application rates and reduce hiring times. Led the deployment and management of the platform, ensuring scalability, reliability, and cost-effectiveness. Demonstrated strong problem-solving and technical skills through successful project delivery.",
     // },
+    {
+      company: "Java Developer",
+      badges: [],
+      href: "https://www.deloitte.com/",
+      location: "Remote",
+      title: "Software Engineer",
+      logoUrl: "/tcs.png",
+      start: "Feb 2021",
+      end: "Dec 2023",
+      description:
+        "Enterprise Angular and Java application development for one of the top 3 banks in America.",
+    },
     {
       company: "Associate Software Developer",
       badges: [],

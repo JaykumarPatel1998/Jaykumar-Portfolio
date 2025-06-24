@@ -76,7 +76,7 @@ export const DATA = {
       href: "https://www.deloitte.com/",
       location: "Remote",
       title: "Software Engineer",
-      logoUrl: "https://www.deloitte.com/content/dam/assets-shared/logos/svg/a-d/deloitte.svg",
+      logoUrl: "/deloitte.jpg",
       start: "Feb 2025",
       end: "present",
       description:
